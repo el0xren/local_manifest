@@ -6,14 +6,14 @@
 <project path="vendor/xiaomi/tulip" name="official-mocha/vendor_xiaomi_tulip.git" remote="github" revision="twelve" /> 
 <project path="kernel/xiaomi/sdm660" name="F2LX/kernel_xiaomi_sdm660.git" remote="github" revision="kernel-eas" /> 
 <project path="device/xiaomi/extras" name="ArrowOS-Devices/android_device_xiaomi_extras.git" remote="github" revision="arrow-12.0" />
-<project path="vendor/qcom/opensource/commonsys/display" name="ArrowOS/android_vendor_qcom_opensource_display-commonsys-intf" remote="github" revision="arrow-12.0" />
+<project path="vendor/qcom/opensource/commonsys/display" name="PixelExperience/vendor_qcom_opensource_commonsys-intf_display" remote="github" revision="twelve" />
 
 <!-- Hals -->
 <remove-project name="android_hardware_qcom_media" />
 <remove-project name="android_hardware_qcom_audio" />
 <remove-project name="android_hardware_qcom_display" />
-<project path="hardware/qcom-caf/msm8998/display" name="ArrowOS/android_hardware_qcom_display" remote="github" revision="arrow-12.0-caf-msm8998" />
-<project path="hardware/qcom-caf/msm8998/media" name="ArrowOS/android_hardware_qcom_media" remote="github" revision="arrow-12.0-caf-msm8998" />
-<project path="hardware/qcom-caf/msm8998/audio" name="ArrowOS/android_hardware_qcom_audio" remote="github" revision="arrow-12.0-caf-msm8998" />
+<project path="hardware/qcom-caf/msm8998/display" name="PixelExperience/hardware_qcom-caf_msm8998_display" remote="github" revision="twelve" />
+<project path="hardware/qcom-caf/msm8998/media" name="PixelExperience/hardware_qcom-caf_msm8998_media" remote="github" revision="twelve" />
+<project path="hardware/qcom-caf/msm8998/audio" name="PixelExperience/hardware_qcom-caf_msm8998_audio" remote="github" revision="twelve" />
 
 </manifest>
