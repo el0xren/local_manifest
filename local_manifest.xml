@@ -4,7 +4,7 @@
 <!-- Trees --> 
 <project path="device/xiaomi/tulip" name="official-mocha/device_xiaomi_tulip.git" remote="github" revision="twelve" /> 
 <project path="vendor/xiaomi/tulip" name="official-mocha/vendor_xiaomi_tulip.git" remote="github" revision="twelve" /> 
-<project path="kernel/xiaomi/sdm660" name="STRIX-Project/STRIX_kernel_xiaomi-sdm660.git" remote="github" revision="sdm660-eas-test" /> 
+<project path="kernel/xiaomi/sdm660" name="Evolution-X-Devices/kernel_xiaomi_sdm660.git" remote="github" revision="hmp" /> 
 <project path="device/xiaomi/extras" name="ArrowOS-Devices/android_device_xiaomi_extras.git" remote="github" revision="arrow-12.0" />
 
 <!-- Hals -->
